@@ -6,10 +6,6 @@
 <img src="https://github.com/diegoMorales31/diegoMorales31/blob/main/diegoMorales31.png" alt="Banner of a developer sitting in front of a desk">
 
 ## 💡 **About me**
-
-<details open>
-  <summary>🇬🇧 English</summary>
-  <br>
   My name is **Diego Morales**, I hold a degree in **Computer Engineering** from the European University of the Atlantic, where I received a merit-based scholarship and contributed to **European-level projects**.  
 
   I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET), SQL, MySQL**, and I also have experience in **AI projects, front-end development, and back-end systems**.  
@@ -17,36 +13,20 @@
   🌍 I am fluent in **English** and have a basic knowledge of **German**, which allows me to collaborate in multicultural environments.  
 
   ⚡ I consider myself a responsible and adaptable person, always eager to **learn independently**, face new challenges, and grow personally and professionally. I value teamwork and believe in contributing positively to every project I take part in.  
-</details>
 
-<details>
-  <summary>🇪🇸 Español</summary>
-  <br>
-  Mi nombre es **Diego Morales**, soy **Ingeniero en Informática** por la Universidad Europea del Atlántico, donde obtuve una beca por mérito académico y participé en **proyectos a nivel europeo**.  
 
-  He trabajado con tecnologías como **JavaScript (Vue.js & React), C# (.NET), SQL, MySQL**, y también tengo experiencia en **proyectos de Inteligencia Artificial, desarrollo front-end y back-end**.  
+## 📫 Reach Me At  
 
-  🌍 Hablo con fluidez **inglés** y tengo conocimientos básicos de **alemán**, lo que me permite colaborar en entornos multiculturales.  
-
-  ⚡ Me considero una persona responsable y adaptable, siempre con ganas de **aprender de manera autónoma**, enfrentar nuevos retos y crecer personal y profesionalmente. Valoro el trabajo en equipo y busco aportar de forma positiva en cada proyecto en el que participo.  
-</details>
-
----
-
-## 🌐 **My socials**
-
-<br>
-<div align="center">
-  <a href="mailto:dmorgal31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E63946?style=for-the-badge&logo=gmail&logoColor=F1FAEE" />
+<p align="center">
+  <a href="mailto:dmorgal31@gmail.com" title="Email me!">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/diego-javier-morales-galindo-a67652379" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1D3557?style=for-the-badge&logo=linkedin&logoColor=A8DADC" />  
+  <a href="https://www.linkedin.com/in/diego-javier-morales-galindo-a67652379" title="Connect on LinkedIn!">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-</div>
+</p>
 
----
+
 
 ## 🛠️ **Languages and Tools**
 
@@ -58,7 +38,7 @@
 
 # 🐞 Sistema Gesto Plagas
 
-**Sistema Gesto Plagas** is an **advanced report management system for pest control company "Gesto Plagas" in Guatemala City**, developed with **Next.js 15, TypeScript, Tailwind CSS 4, and Supabase**.
+My **Latest project** is called **Sistema Gesto Plagas**, it is an **advanced report management system for pest control company "Gesto Plagas" in Guatemala City**, developed with **Next.js 15, TypeScript, Tailwind CSS 4, and Supabase**.
 The platform allows users to **manage accounts, generate dynamic PDF reports, handle catalogs of pests/areas/traps, and visualize statistics**, all within a fast and modern interface.
 
 ✨ **Main Features**
@@ -145,6 +125,6 @@ Here are some other projects I’ve contributed to during my academic and profes
 - 🔹 [**RooMe**](https://github.com/Dmoga31/TFG_DiegoMorales_RooMe.git) – University Thesis - Web application to coordinate housing rentals for university students in Santander, Cantabria.   
 - 🔹 **Triton (Repsol S.A.)** – *Developer* for a program supporting trading operations of physical goods, derivatives, and financial market contracts (internship at NTT Data).  
 
----
+
 
 ✨ More personal and open-source projects will be published soon here on my GitHub!
