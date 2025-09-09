@@ -64,46 +64,69 @@ The platform allows technician to **manage accounts, generate dynamic PDF report
 ## 📸 Screenshots and Reports
 
 ### 🔑 Login
-
+<div align="center">
 <img width="647" height="727" alt="Login" src="https://github.com/user-attachments/assets/8507cbfe-3bb6-4de0-aa09-c436dda22584" />
-
-Login screen where users enter their credentials to access the application.
+     <p>Login screen where users enter their credentials to access the application.</p>  
+    <br>
+</div>
 
 ### 📊 Dashboard
-
+<div align="center">
 <img width="1856" height="914" alt="Dashboard" src="https://github.com/user-attachments/assets/db4c7678-5e21-43f7-858c-8c7ff5e29feb" />
-
-Main view after login showing a summary of metrics and quick access to key sections.
+  <p>Main view after login showing a summary of metrics and quick access to key sections.</p>
+  <br>
+</div>
 
 ### 📝 Report
-
+<div align="center">
 <img width="1022" height="903" alt="InformacionPrincipal" src="https://github.com/user-attachments/assets/6ba4e9f4-be94-41c6-a1a8-08740d7ce3b6" />
-Detailed report generation screen with full information from available records.<br>
-The technician selects the establishment being serviced; the database fetches related information (address and manager) and populates the fields. The system recognizes the technician and automatically inserts their name.
+    <p>  
+      Detailed report generation screen with full information from available records.
+    </p>
+      <br>
+    <p>
+      The technician selects the establishment being serviced; the database fetches related information (address and manager) and populates the       fields. The system recognizes the technician and automatically inserts their name.
+    </p>
+    <br>
+</div>
 
-<img width="1014" height="1374" alt="ProductosUtilizados" src="https://github.com/user-attachments/assets/5de825b5-3716-4461-bfba-c2c7785c74cd" />
+<div align="center">
+<img width="1014" height="1374" alt="ProductosUtilizados" src="https://github.com/user-attachments/assets/5de825b5-3716-4461-bfba-c2c7785c74cd"/>
+    <p>
+      The technician selects the product used, and related data is auto-filled. The technician chooses the pest category, application method,         and usage. Zones where the product was applied are marked. Multiple products can be added as needed.
+    </p>
+    <br>
+</div>
 
-The technician selects the product used, and related data is auto-filled. The technician chooses the pest category, application method, and usage. Zones where the product was applied are marked. Multiple products can be added as needed.
-
+<div align="center">
 <img width="1013" height="2404" alt="Trampas" src="https://github.com/user-attachments/assets/aaf2639b-2057-4dbe-850d-118be318f2f9" />
+    <p>
+      The technician can select trap types and quantities used and mark if traps caught pests or were obstructed. A general data chart displays         totals. Each trap and overall information are charted in the report.
+    </p>
+    <br>
+</div>
 
-The technician can select trap types and quantities used and mark if traps caught pests or were obstructed. A general data chart displays totals. Each trap and overall information are charted in the report.
-
+<div align="center">  
 <img width="1036" height="674" alt="Firmas" src="https://github.com/user-attachments/assets/78a543a8-6e0c-4448-8fce-2e89394bf670" />
-
-Clients can digitally sign at the end of the report. The technician's signature is pre-stored and automatically appears in each report to avoid inconsistencies.
+    <p>
+      Clients can digitally sign at the end of the report. The technician's signature is pre-stored and automatically appears in each report to       avoid inconsistencies.
+    </p>
+    <br>
+</div>
 
 ### 👀 Preview
-
+<div align="center">
 <img width="1856" height="4135" alt="VistaPrevia" src="https://github.com/user-attachments/assets/11a0ca10-df38-4684-b028-9d8a534c0f9b" />
-
-Preview of reports before sending or exporting.
+    <p>Preview of reports before sending or exporting.</p>
+    <br>
+</div>
 
 ### 📤 Report Sending Panel
-
-<img width="1011" height="381" alt="PanelDeEnvioReporte" src="https://github.com/user-attachments/assets/2cd69c85-b773-4e08-b9bd-0523840c0ffa" />
-
-Interface to send generated reports to recipients. The "Resend" tool is used for email delivery.
+<div align="center">
+<img width="1011" height="381" alt="PanelDeEnvioReporte" src="https://github.com/user-attachments/assets/2cd69c85-b773-4e08-b9bd-0523840c0ffa"/>
+    <p></p>Interface to send generated reports to recipients. The "Resend" tool is used for email delivery.</p>
+    <br>
+</div>
 
 
 📄 **PDF Report**: 
@@ -117,12 +140,11 @@ The project is deployed on **Vercel** with direct GitHub integration.
 
 Here are some other projects I’ve contributed to during my academic and professional journey:
 
-- 🔹 [**Financen_Lab**](https://sim.financenlab.com/) – *Front-end developer* for a financial simulator funded by the EU and paired with other universities around EU.  
-- 🔹 [**DietinG_Lab**](https://virtual-patient.edietinglab.eu/) – *Front-end developer* for a nutritional simulator focused on healthcare.  
-- 🔹 [**Multi Lingual Scientific Journals (MLS Journals)**](https://www.mlsjournals.com/) – *Back-end developer* for a scientific journal platform.  
-- 🔹 [**RooMe**](https://github.com/Dmoga31/TFG_DiegoMorales_RooMe.git) – University Thesis - Web application to coordinate housing rentals for university students in Santander, Cantabria.   
-- 🔹 **Triton (Repsol S.A.)** – *Developer* for a program supporting trading operations of physical goods, derivatives, and financial market contracts (internship at NTT Data).  
-
+  🔹 [**Financen_Lab**](https://sim.financenlab.com/) – *Front-end developer* for a financial simulator funded by the EU and paired with other       universities around EU.  
+  🔹 [**DietinG_Lab**](https://virtual-patient.edietinglab.eu/) – *Front-end developer* for a nutritional simulator focused on healthcare.  
+  🔹 [**Multi Lingual Scientific Journals (MLS Journals)**](https://www.mlsjournals.com/) – *Back-end developer* for a scientific journal             platform.  
+  🔹 [**RooMe**](https://github.com/Dmoga31/TFG_DiegoMorales_RooMe.git) – University Thesis - Web application to coordinate housing rentals for       university students in Santander, Cantabria.   
+  🔹 **Triton (Repsol S.A.)** – *Developer* for a program supporting trading operations of physical goods, derivatives, and financial market         contracts (internship at NTT Data).  
 
 
 ✨ More personal and open-source projects will be published soon here on my GitHub!
