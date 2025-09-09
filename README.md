@@ -39,11 +39,11 @@
 # 🐞 Sistema Gesto Plagas
 
 My **Latest project** is called **Sistema Gesto Plagas**, it is an **advanced report management system for pest control company "Gesto Plagas" in Guatemala City**, developed with **Next.js 15, TypeScript, Tailwind CSS 4, and Supabase**.
-The platform allows users to **manage accounts, generate dynamic PDF reports, handle catalogs of pests/areas/traps, and visualize statistics**, all within a fast and modern interface.
+The platform allows technician to **manage accounts, generate dynamic PDF reports, handle catalogs of pests/areas/traps, and visualize statistics**, all within a fast and modern interface.
 
 ✨ **Main Features**
 
-* 🔑 **Secure authentication** with Supabase Auth and role system (admin, technician, user).
+* 🔑 **Secure authentication** with Supabase Auth and role system (admin, technician).
 * 🖥️ **Admin panel** for managing users, areas, pests, and traps.
 * 📄 **PDF report generation with digital signatures**.
 * 📊 **Interactive charts and statistics** with Recharts.
@@ -77,15 +77,13 @@ Main view after login showing a summary of metrics and quick access to key secti
 
 ### 📝 Report
 
-Detailed report generation screen with full information from available records.
-
 <img width="1022" height="903" alt="InformacionPrincipal" src="https://github.com/user-attachments/assets/6ba4e9f4-be94-41c6-a1a8-08740d7ce3b6" />
-
-The user selects the establishment being serviced; the database fetches related information (address and manager) and populates the fields. The system recognizes the technician and automatically inserts their name.
+Detailed report generation screen with full information from available records.<br>
+The technician selects the establishment being serviced; the database fetches related information (address and manager) and populates the fields. The system recognizes the technician and automatically inserts their name.
 
 <img width="1014" height="1374" alt="ProductosUtilizados" src="https://github.com/user-attachments/assets/5de825b5-3716-4461-bfba-c2c7785c74cd" />
 
-The user selects the product used, and related data is auto-filled. The technician chooses the pest category, application method, and usage. Zones where the product was applied are marked. Multiple products can be added as needed.
+The technician selects the product used, and related data is auto-filled. The technician chooses the pest category, application method, and usage. Zones where the product was applied are marked. Multiple products can be added as needed.
 
 <img width="1013" height="2404" alt="Trampas" src="https://github.com/user-attachments/assets/aaf2639b-2057-4dbe-850d-118be318f2f9" />
 
