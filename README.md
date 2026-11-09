@@ -42,7 +42,7 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
 
 ## Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet" />
 </p>
 
 ## Fullstack
