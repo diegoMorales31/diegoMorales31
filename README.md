@@ -3,16 +3,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=E63946&width=435&lines=Welcome+to+my+github+profile!!!" alt="Typing SVG" />
   </a>
 </h1>
-<img src="https://github.com/diegoMorales31/diegoMorales31/blob/main/diegoMorales31.png" alt="Banner of a developer sitting in front of a desk">
 
-## 💡 **About me**
-  My name is **Diego Morales**, I hold a degree in **Computer Engineering** from the European University of the Atlantic, where I received a merit-based scholarship and contributed to **European-level projects**.  
+<p align="center">
+  <img src="https://github.com/diegoMorales31/diegoMorales31/blob/main/diegoMorales31.png" alt="Banner of a developer sitting in front of a desk">
+</p>
 
-  I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET), SQL, MySQL**, and I also have experience in **AI projects, front-end development, and back-end systems**.  
+# 💡 **About me**
+My name is **Diego Morales**, I hold a degree in **Computer Engineering** from the European University of the Atlantic, where I received a merit-based scholarship and contributed to **European-level projects**.  
 
-  🌍 I am fluent in **English** and have a basic knowledge of **German**, which allows me to collaborate in multicultural environments.  
+I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET) and Spring Boot**, and I also have experience in **front-end development, and back-end systems**.  
 
-  ⚡ I consider myself a responsible and adaptable person, always eager to **learn independently**, face new challenges, and grow personally and professionally. I value teamwork and believe in contributing positively to every project I take part in.  
+🌍 I am fluent in **English** and have a basic knowledge of **German**, which allows me to collaborate in multicultural environments.  
+
+⚡ I consider myself a responsible and adaptable person, always eager to **learn independently**, face new challenges, and grow personally and professionally. I value teamwork and believe in contributing positively to every project I take part in.  
 
 
 ## 📫 Reach Me At  
@@ -28,17 +31,44 @@
 
 
 
-## 🛠️ **Languages and Tools**
+# 🛠️ **Languages and Tools**
 
 <br>
+
+## Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mongodb,postgres" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman" />
+  <img src="https://skillicons.dev/icons?i=react,vue" />
 </p>
+
+## Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,dotnet" />
+</p>
+
+## Fullstack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</p>
+
+## Databases & Backend Services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+</p>
+
+## Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,postman,idea" />
+</p>
+
+## Deploy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel" />
+</p>
+
 
 # 🐞 Sistema Gesto Plagas
 
-My **Latest project** is called **Sistema Gesto Plagas**, it is an **advanced report management system for pest control company "Gesto Plagas" in Guatemala City**, developed with **Next.js 15, TypeScript, Tailwind CSS 4, and Supabase**.
+My **Latest project** is called **Sistema Gesto Plagas**, it is an **advanced report management system for pest control company "Gesto Plagas" in Guatemala City**, developed with **Next.js 15, Tailwind CSS 4, and Supabase**.
 The platform allows technician to **manage accounts, generate dynamic PDF reports, handle catalogs of pests/areas/traps, and visualize statistics**, all within a fast and modern interface.
 
 ✨ **Main Features**
@@ -66,25 +96,25 @@ The platform allows technician to **manage accounts, generate dynamic PDF report
 ### 🔑 Login
 <div align="center">
 <img width="647" height="727" alt="Login" src="https://github.com/user-attachments/assets/8507cbfe-3bb6-4de0-aa09-c436dda22584" />
-     <p>Login screen where users enter their credentials to access the application.</p>  
+     <p align="center">Login screen where users enter their credentials to access the application.</p>  
     <br>
 </div>
 
 ### 📊 Dashboard
 <div align="center">
 <img width="1856" height="914" alt="Dashboard" src="https://github.com/user-attachments/assets/db4c7678-5e21-43f7-858c-8c7ff5e29feb" />
-  <p>Main view after login showing a summary of metrics and quick access to key sections.</p>
+  <p align="center">Main view after login showing a summary of metrics and quick access to key sections.</p>
   <br>
 </div>
 
 ### 📝 Report
 <div align="center">
 <img width="1022" height="903" alt="InformacionPrincipal" src="https://github.com/user-attachments/assets/6ba4e9f4-be94-41c6-a1a8-08740d7ce3b6" />
-    <p>  
+    <p align="center">
       Detailed report generation screen with full information from available records.
     </p>
       <br>
-    <p>
+    <p align="center">
       The technician selects the establishment being serviced; the database fetches related information (address and manager) and populates the       fields. The system recognizes the technician and automatically inserts their name.
     </p>
     <br>
@@ -92,7 +122,7 @@ The platform allows technician to **manage accounts, generate dynamic PDF report
 
 <div align="center">
 <img width="1014" height="1374" alt="ProductosUtilizados" src="https://github.com/user-attachments/assets/5de825b5-3716-4461-bfba-c2c7785c74cd"/>
-    <p>
+    <p align="center">
       The technician selects the product used, and related data is auto-filled. The technician chooses the pest category, application method,         and usage. Zones where the product was applied are marked. Multiple products can be added as needed.
     </p>
     <br>
@@ -100,7 +130,7 @@ The platform allows technician to **manage accounts, generate dynamic PDF report
 
 <div align="center">
 <img width="1013" height="2404" alt="Trampas" src="https://github.com/user-attachments/assets/aaf2639b-2057-4dbe-850d-118be318f2f9" />
-    <p>
+    <p align="center">
       The technician can select trap types and quantities used and mark if traps caught pests or were obstructed. A general data chart displays         totals. Each trap and overall information are charted in the report.
     </p>
     <br>
@@ -108,7 +138,7 @@ The platform allows technician to **manage accounts, generate dynamic PDF report
 
 <div align="center">  
 <img width="1036" height="674" alt="Firmas" src="https://github.com/user-attachments/assets/78a543a8-6e0c-4448-8fce-2e89394bf670" />
-    <p>
+    <p align="center">
       Clients can digitally sign at the end of the report. The technician's signature is pre-stored and automatically appears in each report to       avoid inconsistencies.
     </p>
     <br>
@@ -117,14 +147,14 @@ The platform allows technician to **manage accounts, generate dynamic PDF report
 ### 👀 Preview
 <div align="center">
 <img width="1856" height="4135" alt="VistaPrevia" src="https://github.com/user-attachments/assets/11a0ca10-df38-4684-b028-9d8a534c0f9b" />
-    <p>Preview of reports before sending or exporting.</p>
+    <p align="center">Preview of reports before sending or exporting.</p>
     <br>
 </div>
 
 ### 📤 Report Sending Panel
 <div align="center">
 <img width="1011" height="381" alt="PanelDeEnvioReporte" src="https://github.com/user-attachments/assets/2cd69c85-b773-4e08-b9bd-0523840c0ffa"/>
-    <p></p>Interface to send generated reports to recipients. The "Resend" tool is used for email delivery.</p>
+    <p align="center">Interface to send generated reports to recipients. The "Resend" tool is used for email delivery.</p>
     <br>
 </div>
 
