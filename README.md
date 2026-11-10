@@ -57,7 +57,7 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
 
 ## Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postman,idea" />
+  <img src="https://skillicons.dev/icons?i=github,postman,idea,vscode" />
 </p>
 
 ## Deploy
