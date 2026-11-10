@@ -66,9 +66,14 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
 </p>
 
 
-# 🐞 Sistema Gesto Plagas
+# 🌌 [Khronos Demo](https://github.com/diegoMorales31/khronos-demo)
 
-My **Latest project** is called **Sistema Gesto Plagas**, it is an **advanced report management system for pest control company "Gesto Plagas" in Guatemala City**, developed with **Next.js 15, Tailwind CSS 4, and Supabase**.
+My **latest project** (still in development) is **Khronos Demo**.
+Khronos is a backend API for coordinating venue staff, work shifts, and events across areas such as restaurant kitchens or hotel halls. Built with Java and Spring Boot, it uses role-based access and checks scheduling rules to prevent conflicts before changes are saved.
+
+## 🐞 Sistema Gesto Plagas
+
+My previous featured project is called **Sistema Gesto Plagas**, it is an **advanced report management system for pest control company "Gesto Plagas" in Guatemala City**, developed with **Next.js 15, Tailwind CSS 4, and Supabase**.
 The platform allows technician to **manage accounts, generate dynamic PDF reports, handle catalogs of pests/areas/traps, and visualize statistics**, all within a fast and modern interface.
 
 ✨ **Main Features**
