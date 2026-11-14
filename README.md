@@ -1,9 +1,10 @@
+![](https://komarev.com/ghpvc/?username=diegoMorales&color=red&style=plastic)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=E63946&width=435&lines=Welcome+to+my+github+profile!!!" alt="Typing SVG" />
   </a>
 </h1>
-
 <p align="center">
   <img src="https://github.com/diegoMorales31/diegoMorales31/blob/main/diegoMorales31.png" alt="Banner of a developer sitting in front of a desk">
 </p>
