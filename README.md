@@ -67,10 +67,10 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
 </p>
 
 
-# 🌌 [Khronos Demo](https://github.com/diegoMorales31/khronos-demo)
+# 🌌 Khronos Demo
 
 My **latest project** (still in development) is **Khronos Demo**.
-Khronos is a backend API for coordinating venue staff, work shifts, and events across areas such as restaurant kitchens or hotel halls. Built with Java and Spring Boot, it uses role-based access and checks scheduling rules to prevent conflicts before changes are saved.
+Khronos is a backend API for coordinating venue staff, work shifts, and events across areas such as restaurant kitchens or hotel halls. Built with Spring Boot and React, it uses role-based access and checks scheduling rules to prevent conflicts before changes are saved.
 
 ## 🐞 Sistema Gesto Plagas
 
