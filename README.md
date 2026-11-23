@@ -67,10 +67,42 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
 </p>
 
 
-# 🌌 Khronos Demo
+# ⏱ Khronos
 
-My **latest project** (still in development) is **Khronos Demo**.
-Khronos is a backend API for coordinating venue staff, work shifts, and events across areas such as restaurant kitchens or hotel halls. Built with Spring Boot and React, it uses role-based access and checks scheduling rules to prevent conflicts before changes are saved.
+**Khronos** is a web app for running small hospitality venues such as restaurants, bars, hotels and event halls. It covers staff scheduling, time tracking and day-to-day business. It replaces the usual mix of spreadsheets, WhatsApp messages and paper sign-in sheets.
+
+## Who uses it
+
+- **Owners** set up their venues and split each one into zones (Terrace, Kitchen, Main hall). They schedule their staff and plan events, then track hours, costs, cash and stock. One owner can run several venues.
+- **Workers** see their own schedule, clock in and out from their phone, check their hours and get notified when anything about their shifts changes.
+- **A platform admin** creates owner accounts and decides which plan each owner is on.
+
+## What it does
+
+- **Scheduling.** Owners add shifts in batches, for several people over several days at once, or copy last week's rota. Shifts can run past midnight, and each one can carry notes for the worker. A day board shows every zone, who is working and when.
+- **Events.** An event is booked in one zone, or across the whole venue as a "global" event. Owners can only assign people whose shift covers the event. When a shift or event changes, assignments that are no longer covered are removed automatically.
+- **Time tracking.** Workers clock in and out with one tap, and owners can fix mistakes. Every correction keeps a history, which gives a proper legal record of working hours.
+- **Reports.** Planned hours against hours actually worked, lateness, and staff cost from each person's hourly rate. Everything can be exported to CSV.
+- **Business.** Daily cash closings with the expected and counted cash and any difference, plus expenses. A summary shows sales, costs and estimated margin against the previous period.
+- **Inventory.** Products, suppliers, stock in and out, waste, stocktakes and purchase orders, with alerts when stock runs low.
+- **Notifications.** In-app notices and phone push notifications for new shifts, changes, cancellations and venue-wide events. Each worker gets one grouped notice per change instead of a flood.
+- **Plans.** Three tiers: Khronos for scheduling and hours, Plus adds cash and the business summary, and Ultra adds inventory.
+
+## How it's built
+
+- **Backend:** a REST API in **Java 17 and Spring Boot**, on **PostgreSQL** (hosted on Supabase) with **Flyway** migrations. It runs in Docker on **Fly.io**.
+  - Sign-in uses short-lived access tokens with refresh tokens, one session per device.
+  - Every request is checked against who owns which venue, so owners only ever see their own venues.
+  - Requests that arrive at the same time are handled in a fixed order using database locks, so double bookings and races are prevented.
+- **Frontend:** a **React** single-page app built with Vite, served from **Cloudflare**.
+  - It installs on a phone like a native app, with push notifications.
+  - It's in Spanish and English, and always uses the venue's own time zone.
+  - It's designed to work on phones from 360px wide upwards.
+- **Quality:** integration tests run the whole API against a real PostgreSQL database. The frontend has a large component test suite, including checks of the phone layout.
+
+## What makes it different
+
+Khronos is built around the real rules of hospitality work. The service day doesn't end at midnight, a person can't be in two places at once, and you can't put someone on an event when they aren't working. The app enforces these rules itself. Owners get one place for staff, hours, cash and stock, and workers just open the app on their phone to see where they need to be.
 
 ## 🐞 Sistema Gesto Plagas
 
