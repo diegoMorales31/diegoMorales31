@@ -71,6 +71,59 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
 
 **Khronos** is a web app for running small hospitality venues such as restaurants, bars, hotels and event halls. It covers staff scheduling, time tracking and day-to-day business. It replaces the usual mix of spreadsheets, WhatsApp messages and paper sign-in sheets.
 
+## 📸 Screenshots and Reports
+
+### 📊 Owner dashboard
+<div align="center">
+  <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/90778833-85cb-4fc8-8ff2-eed3ca88c6c0" />
+  <p align="center">Weekly sales, expenses, labor costs, estimated margin, and operational alerts.</p>
+  <br>
+</div>
+
+### 🗓️ Staff scheduling
+<div align="center">
+  <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/1ad57a64-d3ec-4786-a658-e05889dff984" />
+  <p align="center">A weekly rota showing staff shifts by venue zone alongside scheduled events.</p>
+  <br>
+</div>
+
+### ⏱ Hours and labor reports
+<div align="center">
+  <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6355f37d-1506-4a10-be2e-1c836bd69498" />
+  <p align="center">Planned and worked hours, punctuality, differences, and labor costs by employee.</p>
+  <br>
+</div>
+
+### 💶 Cash closing
+<div align="center">
+  <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4b05fb15-5612-499f-bf73-5b40f1b3958b" />
+  <p align="center">Daily sales, cash movements, expected cash, and the closing balance.</p>
+  <br>
+</div>
+
+### 🎉 Events
+<div align="center">
+  <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9b2a25a3-2d00-4d5d-905f-7c453d6a0ac9" />
+  <p align="center">Upcoming events with their scheduled time, venue zone, and assigned staff.</p>
+  <br>
+</div>
+
+### 📦 Inventory
+<div align="center">
+  <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2ab5b2c9-2200-4c9f-87fe-1b4c5f5ea724" />
+  <p align="center">Product stock, minimum levels, stock value, and inventory actions.</p>
+  <br>
+</div>
+
+### 📱 Worker mobile app
+<div align="center">
+  <img width="260" height="500" alt="image" src="https://github.com/user-attachments/assets/395a9bbe-d8a5-4672-b77c-0986835e904b" />
+  <img width="260" height="500" alt="image" src="https://github.com/user-attachments/assets/1b6714d8-d874-428d-89a5-4dfd452167aa" />
+  <img width="260" height="500" alt="image" src="https://github.com/user-attachments/assets/dd87717f-d95c-4244-abc9-547d657421fe" />
+  <p align="center">Workers can check their shifts, track hours, clock in and out, and stay up to date.</p>
+  <br>
+</div>
+
 ## Who uses it
 
 - **Owners** set up their venues and split each one into zones (Terrace, Kitchen, Main hall). They schedule their staff and plan events, then track hours, costs, cash and stock. One owner can run several venues.
