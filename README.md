@@ -71,7 +71,7 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
 
 **Khronos** is a web app for running small hospitality venues such as restaurants, bars, hotels and event halls. It covers staff scheduling, time tracking and day-to-day business. It replaces the usual mix of spreadsheets, WhatsApp messages and paper sign-in sheets.
 
-## 📸 Screenshots and Reports
+## 📸 Screenshots
 
 ### 📊 Owner dashboard
 <div align="center">
@@ -157,7 +157,7 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
 
 Khronos is built around the real rules of hospitality work. The service day doesn't end at midnight, a person can't be in two places at once, and you can't put someone on an event when they aren't working. The app enforces these rules itself. Owners get one place for staff, hours, cash and stock, and workers just open the app on their phone to see where they need to be.
 
-## 🐞 Sistema Gesto Plagas
+# 🐞 Sistema Gesto Plagas
 
 My previous featured project is called **Sistema Gesto Plagas**, it is an **advanced report management system for pest control company "Gesto Plagas" in Guatemala City**, developed with **Next.js 15, Tailwind CSS 4, and Supabase**.
 The platform allows technician to **manage accounts, generate dynamic PDF reports, handle catalogs of pests/areas/traps, and visualize statistics**, all within a fast and modern interface.
