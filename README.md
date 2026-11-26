@@ -153,6 +153,13 @@ I’ve worked with technologies such as **JavaScript (Vue.js & React), C# (.NET)
   - It's designed to work on phones from 360px wide upwards.
 - **Quality:** integration tests run the whole API against a real PostgreSQL database. The frontend has a large component test suite, including checks of the phone layout.
 
+### Architecture overview
+
+The installable React PWA is served by Cloudflare Workers and calls the Spring Boot REST API on Fly.io. The API stores application data in PostgreSQL on Supabase. GitHub Actions runs CI, and pushes to `main` drive deployment. The diagram also shows the browser push notification flow and the developer-to-production path.
+
+<img width="2280" height="1760" alt="image" src="https://github.com/user-attachments/assets/73051668-47b0-46be-a79a-27c60d098c6f" />
+
+
 ## What makes it different
 
 Khronos is built around the real rules of hospitality work. The service day doesn't end at midnight, a person can't be in two places at once, and you can't put someone on an event when they aren't working. The app enforces these rules itself. Owners get one place for staff, hours, cash and stock, and workers just open the app on their phone to see where they need to be.
